@@ -10,7 +10,7 @@ Real-time emotion detection from speech
 Supports both live recording and file upload
 Uses Mel spectrograms as input features
 Trained on the RAVDESS dataset
-##Technologies Used
+## Technologies Used
 - Python
 - TensorFlow/Keras
 - Librosa for audio processing
