@@ -1,3 +1,3 @@
 # mini-project
-Deep Learning: Speech Emotion Recognition Project
-Importing Necessary Libraries
+#Deep Learning: Speech Emotion Recognition Project
+#Importing Necessary Libraries
